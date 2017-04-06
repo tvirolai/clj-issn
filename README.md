@@ -1,5 +1,8 @@
 # clj-issn
 
+[![Clojars Project](https://img.shields.io/clojars/v/clj-issn.svg)](https://clojars.org/clj-issn)
+[![Build Status](https://travis-ci.org/tvirolai/clj-issn.svg?branch=master)](https://travis-ci.org/tvirolai/clj-issn)
+
 A tiny Clojure library for validating and formatting ISSN codes.
 
 ## Installation
